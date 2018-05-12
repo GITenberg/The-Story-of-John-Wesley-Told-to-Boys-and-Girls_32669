@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35978'
     url: http://www.gutenberg.org/2009/agents/35978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32669#The-Story-of-John-Wesley-Told-to-Boys-and-Girls
 gutenberg_issued: '2010-06-03'
 gutenberg_type: Text
 identifiers:
